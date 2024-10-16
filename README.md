@@ -1,1 +1,1 @@
-AI 학습용 repository
+### AI 학습용 repository
